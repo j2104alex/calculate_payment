@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\Lib_Calcular_Pago\Lib_Calcular_Pago\bin\Debug\Lib_Calcular_Pago.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\Lib_Calcular_Pago\Lib_Calcular_Pago\bin\Debug\Lib_Calcular_Pago.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\Lib_Calcular_Pago\Lib_Calcular_Pago\obj\Debug\Lib_Calcular_Pago.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\Lib_Calcular_Pago\Lib_Calcular_Pago\obj\Debug\Lib_Calcular_Pago.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\Lib_Calcular_Pago\Lib_Calcular_Pago\obj\Debug\Lib_Calcular_Pago.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\Lib_Calcular_Pago\Lib_Calcular_Pago\obj\Debug\Lib_Calcular_Pago.pdb

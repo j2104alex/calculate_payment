@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\obj\Debug\App_calcular_pago.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\obj\Debug\App_calcular_pago.Properties.Resources.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\obj\Debug\App_calcular_pago.lblNombre.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\obj\Debug\App_calcular_pago.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\obj\Debug\App_calcular_pago.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\bin\Debug\App_calcular_pago.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\bin\Debug\App_calcular_pago.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\bin\Debug\Lib_Calcular_Pago.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\bin\Debug\Lib_Calcular_Pago.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\obj\Debug\App_calcular_pago.csproj.CopyComplete
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\obj\Debug\App_calcular_pago.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\CalcularPago\App_calcular_pago\App_calcular_pago\obj\Debug\App_calcular_pago.pdb
